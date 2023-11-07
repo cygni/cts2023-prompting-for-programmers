@@ -112,7 +112,7 @@ We have a big legacy system written using old tech like JSP. We want to migrate 
 
 #### Chain of thought
 
-Chain of thought (CoT) prompting is a trick where you either break down a problem into smaller steps and show the model how to solve the problem with broken down steps. Or alternatively, you get the model to spit out its thought process step by step. CoT helps models perform better on trickier problems which involve multi step reasoning. Using pseudo code to describe a solution is a form of CoT. A last trick is to just add the phrase "lets think step by step" at the end.
+Chain of thought (CoT) prompting is a trick where break down a problem into smaller steps and show the model how to solve the problem with broken down steps. Or alternatively, you get the model to spit out its own thought process step by step. CoT helps models perform better on trickier problems which involve multi step reasoning. Using pseudo code to describe a solution is a form of CoT. A last (but cheap) trick is to just add the phrase "lets think step by step" at the end which _might_ improve performance. 
 
 A chain of thought prompt also guides the exact solution you want. 
 
