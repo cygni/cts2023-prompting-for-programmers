@@ -5,7 +5,7 @@
 
 Different prompts can make an LLM spit out really different stuff. Asking the same thing in a new way can change the game. So, prompt engineering is all about crafting your words just right to steer the LLM.
 
-Unfortunately, prompt engineering is more of an art than a science, which often requires experience and intution. But lets practice some common techniques to get you started!
+Unfortunately, prompt engineering is more of an art than a science, which often requires experience and intuition. But lets practice some common techniques to get you started!
 
 ### Prompting techniques
 
