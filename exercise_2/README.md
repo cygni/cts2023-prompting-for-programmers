@@ -118,7 +118,10 @@ A chain of thought prompt also guides the exact solution you want.
 
 A simple prompt would be:
 
-Write a python program that calculates the odds at winning in blackjack (american rules) when using basic strategy.
+```
+Write a python program that calculates the odds at winning in blackjack 
+(american rules) when using basic strategy.
+```
 
 An example of a chain of thought prompt would be to outline the entire solution in pseudo code:
 
@@ -152,7 +155,7 @@ Give me a basic full implementation of the following simulation in python
 8. Calculate Odds: The odds of winning are the number of hands won divided by the total number of hands played.
 ```
 
-Using this style of prompting, ask bing chat to implement a black simulator with and without CoT
+Ask bing chat to implement a blackjack simulator with and without CoT and compare the difference.
 
 
 ##### Let's think step by step
