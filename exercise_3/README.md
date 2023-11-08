@@ -43,7 +43,7 @@ Example prompts below, but try some research topics of your own you recently goo
 
 - write a rust program that integrates between opentelemetry and a logger framework so that trace_id and span_id is put in the logs
 - how do I center a div
-- write a python function which subscribes to all updates/inserts of a postgres table called svt_ids
+- write a python function which subscribes to all updates/inserts of a postgres table called placement_ids
 - ...
 
 

@@ -71,10 +71,6 @@ We will use Bing Chat for this problem. It uses GPT-4 from OpenAI under the hood
 
 1. Here is some code. What does it do?
 
-
-
-1. Here is some code
-
     ```
     def foo(x):
     z = 1.0

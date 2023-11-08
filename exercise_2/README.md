@@ -13,9 +13,9 @@ Unfortunately, prompt engineering is more of an art than a science, which often 
 
 Few-shot learning is a machine learning technique that enables models to learn new concepts with only a few examples. This technique is particularly useful for programming. The idea is to include to include example input and output in your prompt which also gives you the opportunity to teach new concepts within the prompt.
 
-Let's try to solve a few-shot learning problem using bing chat.
+Let's try to solve a problem with the few-shot learning technique using bing chat.
 
-Here is a slightly adjusted number system 
+Here is a slightly adjusted number system based on symbols
 
 #### Symbols
 
@@ -56,7 +56,7 @@ Larger symbols precede smaller ones when writing larger numbers:
 
 🌍🌍🚀🚀🍀🍀🍀 = 2023
 
-Using bing chat, prompt the model to learn the number system and create some python code that coverts a number to decimal. 
+Using bing chat, prompt the model to learn the number symbol system and create some python code that coverts a sequence of symbols to decimal value. 
 Ask it to provide test code for all examples.
 
 ### Reflection
